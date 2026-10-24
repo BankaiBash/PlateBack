@@ -1,0 +1,5 @@
+Policy,Model_Source,Safety_Buffer_Pct,Total_Actual_Demand,Total_Prepared_Units,Total_Simulated_Surplus,Total_Simulated_Shortage,Demand_Served_Pct,Relative_Surplus_Change_vs_Baseline_Pct
+Baseline Policy (Historical Average),Historical Average Baseline,5.0,23618862.0,26077208.0,6693322.0,4234976.0,82.07,0.0
+Prediction Policy (Linear Regression),Linear Regression,5.0,23618862.0,25256017.0,5971543.0,4334388.0,81.65,-10.78
+Prediction Policy (Random Forest Regressor),Random Forest Regressor,5.0,23618862.0,25039075.0,4753258.0,3333045.0,85.89,-28.99
+Prediction Policy (Gradient Boosting Regressor),Gradient Boosting Regressor,5.0,23618862.0,24450993.0,4350038.0,3517907.0,85.11,-35.01

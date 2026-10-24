@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Dataset files
+data/*.csv
+/train.csv
+/meal_info.csv
+/fulfilment_center_info.csv
+
+# Generated model files
+*.pkl
+*.joblib
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# OS / IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

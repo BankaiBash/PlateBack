@@ -1,0 +1,5 @@
+Model,MAE,RMSE,R2
+Historical Average Baseline,109.7701,248.9597,0.5353
+Linear Regression,104.9161,220.4739,0.6356
+Random Forest Regressor,82.5332,178.1692,0.762
+Gradient Boosting Regressor,80.8407,172.8451,0.776

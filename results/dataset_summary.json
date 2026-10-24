@@ -1,0 +1,16 @@
+{
+  "total_rows": 456548,
+  "train_rows": 361348,
+  "test_rows": 95200,
+  "min_week": 1,
+  "split_week": 116,
+  "max_week": 145,
+  "num_centers": 77,
+  "num_meals": 51,
+  "num_categories": 14,
+  "num_cuisines": 4,
+  "mean_orders": 261.87,
+  "median_orders": 136.0,
+  "best_ml_model": "Gradient Boosting Regressor",
+  "safety_buffer_pct": 5.0
+}
